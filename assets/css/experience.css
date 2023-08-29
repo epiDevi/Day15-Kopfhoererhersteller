@@ -1,0 +1,18 @@
+.circle{
+    top: 50%;
+}
+body{
+    background: none;
+}
+html{
+    background: url("../img/2.\ Page.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+   
+}
+
+.container-lounger{
+    height: auto;
+}
